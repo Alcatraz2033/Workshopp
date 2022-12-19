@@ -106,7 +106,7 @@ int main(void){
 	char signo;
 	system("clear");
 	printf("[*] WORKSHOPP GRUPO3\n");
-	printf("[*] Github: https://github.com/Alcatraz2033/Workshopp.git");
+	printf("[*] Github: https://github.com/Alcatraz2033/Workshopp.git\n\n");
 
 	printf("[+] Signo del logo: ");
 	scanf("%c", &signo);
